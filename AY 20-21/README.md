@@ -34,7 +34,8 @@
 
     * Example:  `+INDTAX(11111111)`
 
-  2. *DISPLAY_OPTIONS __(Optional)__*:
+
+  2. *DISPLAY_OPTIONS* __(Optional)__:
     * Here You can Enter Following Options based on Your Choice:
       * "s1" - For 1st Slab Amount
       * "s2" - For 2nd Slab Amount
@@ -44,4 +45,5 @@
       * "noround" - Original Tax will be Rounded as per Income Tax Act, this Option will give you a Tax that is not Rounded as per the Act.
 
     * Don't Forget to put Double Quotes in the String "".
+    
     * Example:  `+INDTAX(11111111, "s2")`
