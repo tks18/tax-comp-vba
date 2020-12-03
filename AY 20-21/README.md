@@ -42,3 +42,6 @@
       * "surch" - For Surcharge Amount if Any
       * "cess" - For Cess Amount
       * "noround" - Original Tax will be Rounded as per Income Tax Act, this Option will give you a Tax that is not Rounded as per the Act.
+
+    * Don't Forget to put Double Quotes in the String "".
+    * Example: `+INDTAX(11111111, "s2")`
