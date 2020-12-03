@@ -27,7 +27,7 @@
 
 #### Available Options:
 
-  **SYNTAX:  `+INDTAX(INCOME_AMOUNT, DISPLAY_OPTIONS(Optional))`**
+  **SYNTAX:**  `+INDTAX(INCOME_AMOUNT, DISPLAY_OPTIONS(Optional))`
 
   1. *INCOME_AMOUNT*:
     * Here You can Enter the Amount of Income You Have Earned. Nothing Complicated hehe xD
